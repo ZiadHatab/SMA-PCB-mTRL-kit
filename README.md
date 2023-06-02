@@ -1,4 +1,4 @@
-# FR4 Microstrip multiline TRL Board
+# FR4 microstrip multiline TRL board
 
 Originally, I designed a transition from SMA connector to microstrip line for my own usage. However, I found myself afterwards creating a multiline TRL board on the standard 1.6mm FR4 substrate. So I thought maybe someone would find it useful to de-embed measurements of some DUTs. In this repository, you will find the CAD files (Altium and Gerber) for a multiline TRL PCB and another PCB that contains some example DUTs.
 
@@ -12,9 +12,9 @@ For the DUT board, you will find:
 - 0805 SMD pads for any one-port loads.
 - 0805 SMD pads for a series load.
 - 0805 SMD pads for a shunt load.
-- A matched line 2.94mm (50 ohm).
-- A wide stepped impedance line 6.39mm (30 ohm).
-- A narrow stepped impedance line 0.88mm (90 ohm).
+- A matched line. Width = 2.94mm (50 ohm).
+- A wide stepped impedance line. Width = 6.39mm (30 ohm).
+- A narrow stepped impedance line. Width = 0.88mm (90 ohm).
 - A matched line with a slot in the ground plane.
 
 ![](./Images/mTRL_pcb.jpeg) | ![](./Images/DUT_pcb.jpeg)
