@@ -21,7 +21,7 @@ For the DUT board, you will find:
 :--: | :--:
 *mTRL board.* | *DUTs board.*
 
-*I ordered the PCBs at [JLCPCB](https://jlcpcb.com/) with their standard 2 layers 1.6mm FR4 substrate.*
+*I ordered the PCBs at [JLCPCB](https://jlcpcb.com/) with their standard 2 layers 1.6mm FR4 substrate. The SMA connector used is the [Johnson 142-0701-801](https://www.belfuse.com/product/part-details?partn=142-0701-801)*
 
 ## Measurements
 
